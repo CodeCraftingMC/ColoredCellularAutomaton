@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredCellularAutomaton", "ColoredCellularAutomaton\ColoredCellularAutomaton.csproj", "{4359EC1E-4DB9-4769-8EC1-3ED00D24E30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4359EC1E-4DB9-4769-8EC1-3ED00D24E30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4359EC1E-4DB9-4769-8EC1-3ED00D24E30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4359EC1E-4DB9-4769-8EC1-3ED00D24E30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4359EC1E-4DB9-4769-8EC1-3ED00D24E30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7663747B-AD40-49C5-9A6B-CF073844699F}
+	EndGlobalSection
+EndGlobal
